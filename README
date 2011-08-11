@@ -1,0 +1,7 @@
+Periodic actions for uMachines
+==============================
+
+Schedule messages to be returned to the sending machine.
+
+See examples/umachine_cron_test.pde
+
